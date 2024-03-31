@@ -1,2 +1,2 @@
 # Game_Prototype
-Upload The Game Fork by my
+Upload The Game Fork By Myself
